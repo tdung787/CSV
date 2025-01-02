@@ -247,7 +247,7 @@
                                                  <img src="images/khoahoc1.png"
                                                      class="d-block img img-cover position-absolute" alt="">
                                              </picture>
-                                             <img src="https://htxtruongthuan.com/website/images/frame-removebg-preview.png"
+                                             <img src=""
                                                  decoding="async" class="d-block img img-cover position-absolute khung"
                                                  alt="">
                                              <div class="item-info position-relative">
@@ -280,7 +280,7 @@
                                                  <img src="images/khoahoc2.png"
                                                      class="d-block img img-cover position-absolute" alt="">
                                              </picture>
-                                             <img src="https://htxtruongthuan.com/website/images/frame-removebg-preview.png"
+                                             <img src=""
                                                  decoding="async" class="d-block img img-cover position-absolute khung"
                                                  alt="">
                                              <div class="item-info position-relative">
@@ -314,7 +314,7 @@
                                                  <img src="images/khoahoc3.png"
                                                      class="d-block img img-cover position-absolute" alt="">
                                              </picture>
-                                             <img src="https://htxtruongthuan.com/website/images/frame-removebg-preview.png"
+                                             <img src=""
                                                  decoding="async" class="d-block img img-cover position-absolute khung"
                                                  alt="">
                                              <div class="item-info position-relative">
@@ -348,7 +348,7 @@
                                                  <img src="images/khoahoc4.png"
                                                      class="d-block img img-cover position-absolute" alt="">
                                              </picture>
-                                             <img src="https://htxtruongthuan.com/website/images/frame-removebg-preview.png"
+                                             <img src=""
                                                  decoding="async" class="d-block img img-cover position-absolute khung"
                                                  alt="">
                                              <div class="item-info position-relative">
@@ -383,7 +383,7 @@
                                                  <img src="images/khoahoc5.png"
                                                      class="d-block img img-cover position-absolute" alt="">
                                              </picture>
-                                             <img src="https://htxtruongthuan.com/website/images/frame-removebg-preview.png"
+                                             <img src=""
                                                  decoding="async" class="d-block img img-cover position-absolute khung"
                                                  alt="">
                                              <div class="item-info position-relative">
@@ -687,7 +687,7 @@
                                              <img src="{{ asset('images/5ng.png') }}"
                                                  data-src="{{ asset('images/5ng.png') }}"
                                                  class="d-block img img-cover position-absolute lazy loaded"
-                                                 alt="Cách làm thịt heo chiên nước mắm da giòn thịt mềm ngọt rất là ngon" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -703,7 +703,7 @@
                                              <img src="{{ asset('images/3.jpg') }}"
                                                  data-src="{{ asset('images/3.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy loaded"
-                                                 alt="Bí quyết nấu LẨU BÒ MẮM RUỐC ngon tuyệt đặc sản Bình Dương" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -718,7 +718,7 @@
                                              class="position-relative w-100 m-0 be_opa modal-open ratio3by2 has-edge aspect">
                                              <img src="{{ asset('images/22.jpg') }}" data-src="{{ asset('images/22.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy loaded"
-                                                 alt="Cách nấu Lẩu Thái như thế nào mới đạt đúng chuẩn vị Lẩu Thái ngon" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -733,7 +733,7 @@
                                              class="position-relative w-100 m-0 be_opa modal-open ratio3by2 has-edge aspect">
                                              <img src="{{ asset('images/6.jpg') }}" data-src="{{ asset('images/6.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy loaded"
-                                                 alt="ĐẬU HỦ NHỒI THỊT SỐT CÀ CHUA ngon tuyệt đẹp mắt dễ làm nhất" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -748,7 +748,7 @@
                                              class="position-relative w-100 m-0 be_opa modal-open ratio3by2 has-edge aspect">
                                              <img src="{{ asset('images/7.jpg') }}" data-src="{{ asset('images/7.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy"
-                                                 alt="Cách Làm Mực Chiên Nước Mắm Đơn Giản Mà Ngon" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -762,7 +762,7 @@
                                              class="position-relative w-100 m-0 be_opa modal-open ratio3by2 has-edge aspect">
                                              <img src="{{ asset('images/4.jpg') }}" data-src="{{ asset('images/4.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy"
-                                                 alt="Cách Làm Mực Chiên Nước Mắm Đơn Giản Mà Ngon" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -777,7 +777,7 @@
                                              <img src="{{ asset('images/5.jpg') }}"
                                                  data-src="{{ asset('images/5.jpg') }}"
                                                  class="d-block img img-cover position-absolute lazy"
-                                                 alt="Cách Làm Mực Chiên Nước Mắm Đơn Giản Mà Ngon" />
+                                                 alt="" />
                                          </div>
                                          </a>
                                      </div>
@@ -816,190 +816,121 @@
              </div>
          </div>
          <div id="popsale" class="jas-sale-pop flex pf middle-xs rounded-10 bg-white box_shadow position-fixed">
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/kho-ga" class="jas-sale-pop-img mr-3">
+             <a href="" class="jas-sale-pop-img mr-3">
                  <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
                      <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/18/khô gà 1.jpg" alt="Khô gà">
+                         src="" alt="">
                  </div>
              </a>
              <div class="jas-sale-pop-content">
                  <p class="font-weight-bold mb-0">Tài khoản miễn phí</p>
                  <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/kho-ga" title="Tài khoản miễn phí">
+                     <a href="" title="Tài khoản miễn phí">
                          Tài khoản miễn phí
                      </a>
                  </h3>
              </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/ga-tuoi" class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/17/gà tươi2.jpg" alt="Gà tươi">
-                 </div>
-             </a>
              <div class="jas-sale-pop-content">
                  <p class="font-weight-bold mb-0">Tài khoản dùng thử</p>
                  <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/ga-tuoi" title="Tài khoản dùng thử">
+                     <a href="" title="Tài khoản dùng thử">
                          Tài khoản dùng thử
                      </a>
                  </h3>
              </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/ruoc-bo" class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/16/ruóc bò 1.jpg" alt="Ruốc bò">
-                 </div>
-             </a>
              <div class="jas-sale-pop-content">
                  <p class="font-weight-bold mb-0">Tài khoản Pro</p>
                  <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/ruoc-bo" title="Tài khoản Pro">
+                     <a href="" title="Tài khoản Pro">
                          Tài khoản Pro
                      </a>
                  </h3>
              </div>
              <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/gio-bo" class="jas-sale-pop-img mr-3">
+             <a href="" class="jas-sale-pop-img mr-3">
                  <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
                      <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/15/gio-bo1.jpg" alt="Giò bò">
+                         src="" alt="">
                  </div>
              </a>
              <div class="jas-sale-pop-content">
                  <p class="font-weight-bold mb-0">Tài khoản nhóm</p>
                  <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/gio-bo" title="Tài khoản nhóm">
+                     <a href="" title="Tài khoản nhóm">
                          Tài khoản nhóm
                      </a>
                  </h3>
              </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/ao-yem-dan-toc-dao"
-                 class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/20/Áo yếm dân tộc dao.jpg"
-                         alt="Áo yếm dân tộc dao">
-                 </div>
-             </a>
              <div class="jas-sale-pop-content">
                  <p class="font-weight-bold mb-0">Tài khoản tập thể</p>
                  <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/ao-yem-dan-toc-dao"
+                     <a href=""
                          title="Tài khoản tập thể">
                          Tài khoản tập thể
                      </a>
                  </h3>
              </div>
              <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/trang-phuc-dan-toc-dao"
+             <a href=""
                  class="jas-sale-pop-img mr-3">
                  <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
                      <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/19/trangphucdantocDao.jpg"
-                         alt="Trang phục dân tộc Dao">
+                         src=""
+                         alt="">
                  </div>
              </a>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Trang phục dân tộc Dao</p>
-                 <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/trang-phuc-dan-toc-dao"
-                         title="Trang phục dân tộc Dao">
-                         Trang phục dân tộc Dao
-                     </a>
-                 </h3>
-             </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/khoi-bo-soi-500g"
-                 class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/13/khô bò sợi.jpg"
-                         alt="Khôi bò sợi (500g)">
-                 </div>
-             </a>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Khôi bò sợi (500g)</p>
-                 <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/khoi-bo-soi-500g"
-                         title="Khôi bò sợi (500g)">
-                         Khôi bò sợi (500g)
-                     </a>
-                 </h3>
-             </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/kho-bo-mem-mieng-lon-500g"
-                 class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="https://htxtruongthuan.com/storage/product/images/12/khô bò miếng lớn.jpg"
-                         alt="Khô bò mềm miếng lớn (500g)">
-                 </div>
-             </a>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Khô bò mềm miếng lớn (500g)</p>
-                 <h3 class="mb-1">
-                     <a href="https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/kho-bo-mem-mieng-lon-500g"
-                         title="Khô bò mềm miếng lớn (500g)">
-                         Khô bò mềm miếng lớn (500g)
-                     </a>
-                 </h3>
-             </div>
-             <span class="btn btn-close position-absolute"></span>
          </div>
      
          <script>
              const popsale_cate = [{
                      "img_url": "images/tkmienphi.png",
                      "title": "Tài khoản miễn phí",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/kho-ga",
+                     "url": "",
                  },
                  {
                      "img_url": "images/tkdungthu.png",
                      "title": "Tài khoản dùng thử",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-ga/ga-tuoi",
+                     "url": "",
                  },
                  {
                      "img_url": "images/tkpro.png",
                      "title": "Tài khoản Pro",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/ruoc-bo",
+                     "url": "",
                  },
                  {
                      "img_url": "images/tknhom.png",
                      "title": "Tài khoản nhóm",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/gio-bo",
+                     "url": "",
                  },
                  {
                      "img_url": "images/taikhoantapthe.png",
                      "title": "Tài khoản tập thể",
-                     "url": "https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/ao-yem-dan-toc-dao",
+                     "url": "",
                  },
                  {
                      "img_url": "images/khoahoc1.png",
                      "title": "Kỹ năng học tập thông minh",
-                     "url": "https://htxtruongthuan.com/san-pham/trang-phuc-dan-toc/trang-phuc-dan-toc-dao",
+                     "url": "",
                  },
                  {
                      "img_url": "images/khoahoc2.png",
                      "title": "Quản lý cảm xúc và giảm stress",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/khoi-bo-soi-500g",
+                     "url": "",
                  },
                  {
                      "img_url": "images/khoahoc3.png",
                      "title": "Đồng hành cùng con - Phụ huynh thông thái",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/kho-bo-mem-mieng-lon-500g",
+                     "url": "",
                  },
                  {
                      "img_url": "images/khoahoc4.png",
                      "title": "Giáo viên thời đại công nghệ",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/kho-bo-mem-mieng-lon-500g",
+                     "url": "",
                  },
                  {
                      "img_url": "images/khoahoc5.png",
                      "title": "Hướng nghiệp và định hướng tương lai",
-                     "url": "https://htxtruongthuan.com/san-pham/san-pham-tu-thit-bo/kho-bo-mem-mieng-lon-500g",
+                     "url": "",
                  },
              ];
      

@@ -11,8 +11,8 @@
     <title>
         MindGrow
     </title>
-    <meta name="description" content="htx đa ngành nghề Trường Thuận">
-    <meta name="keywords" content="htx đa ngành nghề Trường Thuận">
+    <meta name="description" content="MindGrow">
+    <meta name="keywords" content="MindGrow">
     <meta name="robots" content="index,follow,noodp">
     <meta http-equiv="x-dns-prefetch-control" content="on">
 
@@ -29,9 +29,9 @@
     <meta property="og:title" content="HTX">
     <meta property="og:image" content="{{ asset('images/logo.png') }}">
     <meta property="og:image:secure_url" content="{{ asset('images/logo.png') }}">
-    <meta property="og:description" content="htx đa ngành nghề Trường Thuận">
-    <meta property="og:url" content="https://htxtruongthuan.com">
-    <meta property="og:site_name" content="htx đa ngành nghề Trường Thuận">
+    <meta property="og:description" content="MindGrow">
+    <meta property="og:url" content="http://mindgrows.girc.edu.vn">
+    <meta property="og:site_name" content="MindGrow">
 
     <link rel="preload" as="style" href="https://htxtruongthuan.com/website/css/bootstrap/bootstrap.min.css"
         type="text/css">
